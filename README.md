@@ -5,7 +5,7 @@
 
      停用词文件（给出）
      
-     新闻语料(txt文件)--放在一个文件夹下
+     新闻语料(txt文件)--放在一个文件夹下(可去：http://www.sogou.com/labs/resource/ca.php 下载)
      
 2.逻辑架构
 
